@@ -1,1 +1,1 @@
-# InternFlow-Synaptix
+This repository serves as the central codebase for our hackathon project, the Internship Allocation System. It is the unified workspace where each team member will develop, manage, and submit the final implementation of their assigned module. The project is structured into dedicated folders for frontend, backend, AI engine, database, documentation, and testing to ensure clean integration. This repository represents the complete, production-ready version of the system and acts as the single source of truth for deployment, demonstration, and evaluation.
